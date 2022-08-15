@@ -11,6 +11,7 @@ There are 3 contracts: a deployer (which creates a proxy, a proxy contract (whic
 4. At the moment there is only a deployer and an implementation contract. We call the selfdestruct function of the implementation.
 5. We repeat everything from step 1, but we should pass the implementation bytecode of the second version.
 
-
+## Example:
+- https://goerli.etherscan.io/address/0xBc92f18Fe932EE7dF88F1Ab85ED1866B28Ec3243#code
 ### Links:
 - https://medium.com/coinmonks/dark-side-of-create2-opcode-6b6838a42d71
